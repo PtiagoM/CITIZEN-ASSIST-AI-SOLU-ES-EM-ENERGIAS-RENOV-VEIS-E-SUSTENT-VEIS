@@ -1,0 +1,271 @@
+[
+  {
+    "id": "E01",
+    "categoria": "Consumo e eficiência",
+    "titulo": "Entender o consumo na conta de luz",
+    "palavras_chave": [
+      "fatura",
+      "kWh",
+      "quilowatt-hora",
+      "medidor",
+      "leitura",
+      "bandeira",
+      "cobrança",
+      "faturamento",
+      "consumo mensal",
+      "entender",
+      "ler",
+      "boleto"
+    ],
+    "resposta": "1. Na fatura, procure o consumo em kWh (quilowatt-hora) e os dias do período. Se os períodos tiverem durações diferentes, divida os kWh pelos dias e compare o consumo por dia.\n2. Se os kWh por dia subiram, verifique o tempo de uso dos aparelhos. Se ficaram parecidos e o valor aumentou, confira a tarifa, a bandeira, os tributos e as outras cobranças na fatura.\n3. Para um aparelho de potência quase constante, divida os watts por 1.000 e multiplique pelas horas de uso. No exemplo de {local}, {quantidade_lampadas} lâmpadas de {potencia_antiga_w} W ligadas {horas_por_dia} horas por dia consomem {consumo_antigas} kWh em {dias} dias. A casa do exemplo usa {consumo_base_kwh} kWh no total.\n\nSe tiver dúvida sobre uma cobrança, peça à distribuidora que explique o item.",
+    "documentos": [
+      "Sua conta de luz e a etiqueta do aparelho, apenas para consultar em casa."
+    ],
+    "onde": "Fatura ou atendimento da distribuidora.",
+    "fonte": "ANEEL, Ranking das Tarifas — https://www.gov.br/aneel/pt-br/assuntos/tarifas/ranking-das-tarifas\nMinistério de Minas e Energia, potência e consumo — https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/potencia-e-consumo-de-energia-o-que-sao-e-como-impactam-na-conta-de-luz",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E02",
+    "categoria": "Consumo e eficiência",
+    "titulo": "Economizar com lâmpadas LED",
+    "palavras_chave": [
+      "LED",
+      "lâmpada",
+      "lâmpadas",
+      "iluminação",
+      "incandescente",
+      "incandescentes",
+      "lúmens",
+      "soquete",
+      "brilho"
+    ],
+    "resposta": "1. Se a casa ainda usa lâmpadas incandescentes, priorize as que mais ficam acesas. Se já usa LED, vale olhar primeiro o consumo dos aparelhos que mais usa.\n2. Na embalagem, compare o brilho em lúmens (lm). Escolha menor potência em watts com brilho parecido e confira se a voltagem e o encaixe servem para sua luminária.\n3. No exemplo, em {dias} dias, trocar {quantidade_lampadas} incandescentes de {potencia_antiga_w} W por LED de {potencia_led_w} W, ambas com cerca de {brilho_alvo_lm} lúmens, reduz o consumo de iluminação de {consumo_antigas} para {consumo_led} kWh. A diferença de {economia_led_kwh} kWh equivale a cerca de R$ {economia_led_rs} na parcela tarifária do exemplo.\n\nAs cinco lâmpadas custam cerca de R$ {custo_led} no exemplo. A economia muda com a potência da lâmpada atual, as horas de uso e a tarifa da sua distribuidora. Confirme com a prefeitura onde entregar as lâmpadas usadas.",
+    "documentos": [
+      "Embalagem ou etiqueta da lâmpada para conferir brilho, voltagem e encaixe."
+    ],
+    "onde": "Sistema de produtos registrados no Inmetro e serviço de resíduos do município.",
+    "fonte": "Inmetro, exemplo de LED registrado — https://registro.inmetro.gov.br/consulta/detalhe.aspx?NumeroRegistro=001887/2024&pag=1\nEnel SP, tarifa de referência — https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E03",
+    "categoria": "Geração e reserva",
+    "titulo": "Avaliar placas de energia solar",
+    "palavras_chave": [
+      "solar",
+      "painel",
+      "painéis",
+      "fotovoltaico",
+      "fotovoltaica",
+      "fotovoltaicos",
+      "fotovoltaicas",
+      "telhado",
+      "placas solares",
+      "Fio B",
+      "créditos"
+    ],
+    "resposta": "1. Confira o consumo dos últimos 12 meses. Peça a um profissional que avalie a sombra, a direção e o estado do telhado. Consulte a distribuidora sobre a conexão e a compensação de energia.\n2. No exemplo de {local}, um sistema de {solar_potencia_kwp} kWp (potência de pico) gera cerca de {geracao_solar} kWh em {dias} dias. Do total, a casa usa {uso_direto} kWh na hora e envia {injecao} kWh à rede. Ainda retira {importacao} kWh da rede quando precisa.\n3. A compra e a instalação foram estimadas em R$ {solar_custo_rs}. A redução simulada na parcela tarifária é de R$ {economia_solar_rs} no mês. Some as parcelas de financiamento ao comparar propostas. A conta pode ter custos de rede, impostos e iluminação pública.\n\nO sol, a sombra, as condições do imóvel e as regras de compensação mudam o resultado. O sistema do exemplo é conectado à rede e sem bateria. Para ter energia durante quedas de luz, é necessário um sistema projetado para fornecer energia de reserva.",
+    "documentos": [
+      "Histórico de consumo para avaliar em casa e orçamento com geração mensal estimada e garantias."
+    ],
+    "onde": "Distribuidora local e profissionais de instalação fotovoltaica.",
+    "fonte": "INPE, irradiação em São Paulo — https://labren.ccst.inpe.br/atlas2_tables/SP_inc.html\nANEEL, microgeração distribuída — https://www.gov.br/aneel/pt-br/assuntos/geracao/geracao-distribuida\nLei nº 14.300, art. 27 — https://www.presidencia.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm\nDepartamento de Energia dos EUA, energia solar durante apagões — https://www.energy.gov/cmei/systems/solar-and-resilience-basics",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E04",
+    "categoria": "Decisão e benefícios",
+    "titulo": "Comparar lâmpadas LED e energia solar",
+    "palavras_chave": [
+      "comparar LED",
+      "compare LED",
+      "comparar solar",
+      "LED ou",
+      "solar ou",
+      "LED x",
+      "solar x",
+      "LED e",
+      "solar e",
+      "LED vs",
+      "solar vs",
+      "ou placa",
+      "ou placas",
+      "ou LED",
+      "lâmpadas ou",
+      "ou painéis",
+      "LED versus",
+      "versus energia",
+      "solar versus",
+      "versus LED",
+      "LED ou placas",
+      "comparando LED",
+      "LED com",
+      "LED ou painel",
+      "ou painel",
+      "entre trocar",
+      "LED e instalar",
+      "entre LED"
+    ],
+    "resposta": "As duas alternativas podem reduzir o que a mesma casa paga por mês mantendo o brilho e o uso dos aparelhos. O LED reduz o consumo. A energia solar muda parte do fornecimento. Compare o gasto da casa inteira com cada alternativa aplicada por vez.\n\nMesmo exemplo de {dias} dias em {local}, com {consumo_base_kwh} kWh de consumo inicial e os mesmos hábitos:\n- LED. Investimento de R$ {custo_led}. O consumo cai {economia_led_kwh} kWh e a parcela tarifária cai de R$ {custo_base} para R$ {custo_casa_led}, economia de R$ {economia_led_rs}.\n- Solar. Investimento de R$ {solar_custo_rs}. A casa mantém o consumo e gera {geracao_solar} kWh. A parcela tarifária cai de R$ {custo_base} para R$ {custo_solar}, economia de R$ {economia_solar_rs}.\n\nSe ainda há lâmpadas antigas, priorize as mais usadas. Se já usa LED, veja quais aparelhos consomem mais. Para solar, compare propostas com seu consumo e suas condições de telhado e conexão. Cada alternativa foi estimada separadamente. Se for combinar as duas, recalcule usando o novo consumo da casa.\n\nOs valores são estimativas da parcela tarifária, antes de tributos, bandeiras e benefícios. Consulte a tarifa da sua distribuidora e confira se você tem direito à Tarifa Social.",
+    "documentos": [
+      "Consumo em kWh da conta e orçamentos locais para comparar em casa."
+    ],
+    "onde": "Menu de consumo e eficiência, distribuidora local e profissionais de instalação fotovoltaica.",
+    "fonte": "Inmetro, exemplo de LED registrado — https://registro.inmetro.gov.br/consulta/detalhe.aspx?NumeroRegistro=001887/2024&pag=1\nINPE, irradiação em São Paulo — https://labren.ccst.inpe.br/atlas2_tables/SP_inc.html\nEnel SP, tarifa de referência — https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html\nANEEL, microgeração distribuída — https://www.gov.br/aneel/pt-br/assuntos/geracao/geracao-distribuida",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "A19",
+    "categoria": "Decisão e benefícios",
+    "titulo": "Consultar Tarifa Social e Desconto Social",
+    "palavras_chave": [
+      "desconto",
+      "Tarifa Social",
+      "Desconto Social",
+      "CadÚnico",
+      "Cadastro Único",
+      "BPC",
+      "baixa renda",
+      "gratuidade",
+      "subsídio",
+      "Luz do Povo"
+    ],
+    "resposta": "1. Se o orçamento está apertado, confira na conta se aparece Tarifa Social ou Desconto Social. A concessão é automática se a família atender às regras e os dados do cadastro e da conta estiverem corretos.\n2. A Tarifa Social cobre a tarifa dos primeiros 80 kWh no mês para quem tem direito. Entre os grupos atendidos estão famílias do CadÚnico com até meio salário mínimo por pessoa e beneficiários do BPC, como pessoas idosas a partir de 65 anos e pessoas com deficiência. Podem restar impostos, iluminação pública ou consumo acima do limite.\n3. O Desconto Social reduz parte da tarifa para famílias do CadÚnico com renda por pessoa acima de meio e até um salário mínimo e consumo mensal de até 120 kWh. Confirme o enquadramento com a distribuidora.\n4. Se o benefício esperado não aparecer, fale com a distribuidora e confira os dados do CadÚnico no CRAS ou pelo Disque Social 121.\n\nA comparação LED e solar do assistente usa a tarifa residencial comum. A economia em reais de quem recebe um benefício precisa ser calculada pela sua regra.",
+    "documentos": [
+      "Fatura para consulta particular e cadastro atualizado quando aplicável."
+    ],
+    "onde": "Distribuidora, CRAS ou Disque Social 121.",
+    "fonte": "Ministério de Minas e Energia, Luz do Povo — https://www.gov.br/mme/pt-br/luzdopovo/luzdopovo",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E05",
+    "categoria": "Decisão e benefícios",
+    "titulo": "Por onde começar a economizar energia em casa",
+    "palavras_chave": [
+      "economizar energia",
+      "baixar",
+      "baratear",
+      "diminuir",
+      "reduzir",
+      "desperdício",
+      "conta alta",
+      "muito alta",
+      "veio alta",
+      "gastar menos",
+      "eletrodomésticos",
+      "ferro",
+      "máquina de lavar",
+      "conta de luz",
+      "aparelhos domésticos",
+      "sem comprar",
+      "sem gastar"
+    ],
+    "resposta": "1. Compare o consumo em kWh por dia na conta atual e nas anteriores. Se o consumo subiu, pense no que mudou em casa, como banhos mais demorados ou mais tempo de ar-condicionado. Se só o valor subiu, confira tarifa e outras cobranças.\n2. Comece pelas mudanças de rotina que cabem na sua casa. Reduza o tempo de uso de aparelhos de alta potência quando puder. Compare a etiqueta de geladeira, ar-condicionado e outros aparelhos quando for trocar algum deles. Use a capacidade e o ciclo recomendados no manual da máquina de lavar.\n3. Se ainda usa lâmpadas antigas, comece pelos pontos mais usados e compare o brilho ao escolher LED. Depois, avalie solar usando o histórico de consumo e orçamentos locais. Confira a Tarifa Social se puder ter direito.\n\nEscolha uma mudança e confira o consumo por dia na próxima fatura. Use as orientações do menu para ver como calcular e o que verificar em cada alternativa.",
+    "documentos": [
+      "Faturas de períodos recentes e etiquetas dos aparelhos para consultar em casa."
+    ],
+    "onde": "Fatura de luz, catálogo de etiquetas do Inmetro e atendimento da distribuidora.",
+    "fonte": "Ministério de Minas e Energia, potência e consumo — https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/potencia-e-consumo-de-energia-o-que-sao-e-como-impactam-na-conta-de-luz\nEPE, Atlas da Eficiência Energética 2024 — https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-857/Atlas%20da%20Efici%C3%AAncia%20Energ%C3%A9tica%20Brasil%202024.pdf",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E06",
+    "categoria": "Consumo e eficiência",
+    "titulo": "Reduzir o gasto do chuveiro elétrico",
+    "palavras_chave": [
+      "chuveiro",
+      "chuveiros",
+      "banho",
+      "banhos",
+      "ducha",
+      "duchas",
+      "banho quente",
+      "a ducha",
+      "ducha elétrica"
+    ],
+    "resposta": "1. Veja a potência indicada no chuveiro ou no manual. Conte quantos minutos por dia, somando os banhos da casa, ele realmente fica ligado.\n2. Multiplique a potência em kW pelo tempo de uso em horas. Para reduzir o gasto, diminua o tempo com o chuveiro ligado quando puder.\n3. Exemplo de {dias} dias. Reduzir {chuveiro_minutos_poupados_dia} minutos por dia com um chuveiro operando a {chuveiro_potencia_w} W poupa {economia_chuveiro_kwh} kWh. Na tarifa do cenário de {local}, isso corresponde a cerca de R$ {economia_chuveiro_rs} na parcela tarifária.\n\nA economia muda com a potência em uso, a quantidade de banhos, o tempo reduzido e a tarifa local.",
+    "documentos": [
+      "Manual ou etiqueta do chuveiro, tempo de uso e tarifa da sua distribuidora."
+    ],
+    "onde": "Manual do equipamento e conta de luz.",
+    "fonte": "Ministério de Minas e Energia, potência e consumo — https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/potencia-e-consumo-de-energia-o-que-sao-e-como-impactam-na-conta-de-luz\nEnel SP, tarifa de referência — https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E07",
+    "categoria": "Consumo e eficiência",
+    "titulo": "Economizar com geladeira e freezer",
+    "palavras_chave": [
+      "geladeira",
+      "geladeiras",
+      "freezer",
+      "freezers",
+      "refrigerador",
+      "refrigeradores",
+      "congelador",
+      "vedação",
+      "frost free",
+      "com geladeira",
+      "a geladeira"
+    ],
+    "resposta": "1. Abra a porta só pelo tempo necessário e confira se ela fecha bem. Siga as orientações do fabricante sobre o vão de ventilação e as temperaturas de conservação.\n2. Se for trocar o aparelho, compare os kWh por mês na etiqueta do Inmetro em modelos com volume e função parecidos. A diferença em kWh por mês, multiplicada pela tarifa, dá uma estimativa da diferença na parcela de energia.\n3. O compressor liga e desliga. Para estimar o consumo, use os kWh por mês da etiqueta como referência, ou uma medição de vários dias com equipamento adequado.\n\nO consumo real varia com o calor do ambiente, a frequência de abertura e o estado do aparelho. Para decidir pela troca, considere também o preço, a vida útil e o descarte da geladeira antiga.",
+    "documentos": [
+      "Etiqueta do Inmetro ou manual com o consumo em kWh por mês."
+    ],
+    "onde": "Programa Brasileiro de Etiquetagem do Inmetro e manual do aparelho.",
+    "fonte": "Inmetro, etiqueta de geladeiras a partir de 2026 — https://www.gov.br/inmetro/pt-br/centrais-de-conteudo/noticias/2025/nova-etiqueta-do-inmetro-para-refrigeradores-entra-em-vigor-a-partir-de-1o-de-janeiro-de-2026/",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E08",
+    "categoria": "Consumo e eficiência",
+    "titulo": "Economizar com ar-condicionado",
+    "palavras_chave": [
+      "ar-condicionado",
+      "arcondicionado",
+      "split",
+      "ar inverter",
+      "BTU",
+      "BTUs",
+      "climatizador",
+      "climatização",
+      "ar ligado",
+      "com o ar"
+    ],
+    "resposta": "1. Use o ar-condicionado no cômodo ocupado e feche portas e janelas enquanto ele estiver ligado. Use o temporizador para limitar as horas de uso e siga o manual para limpar os filtros.\n2. Na compra, compare modelos de capacidade adequada ao mesmo ambiente e confira o consumo em kWh por ano na etiqueta do Inmetro.\n3. Em casa, o consumo muda com as horas de uso, o clima, a temperatura ajustada e a manutenção. Use o valor da etiqueta para comparar aparelhos em condições padronizadas.\n\nSe for investigar a conta, comece conferindo se o ar ficou ligado por mais tempo ou em mais dias do que no mês anterior.",
+    "documentos": [
+      "Etiqueta do Inmetro, manual do aparelho e tempo de uso estimado."
+    ],
+    "onde": "Programa Brasileiro de Etiquetagem do Inmetro.",
+    "fonte": "Inmetro, etiqueta de condicionadores de ar — https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/condicionadores-de-ar\nMinistério de Minas e Energia, potência e consumo — https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/potencia-e-consumo-de-energia-o-que-sao-e-como-impactam-na-conta-de-luz",
+    "verificado_em": "2026-11-18"
+  },
+  {
+    "id": "E09",
+    "categoria": "Geração e reserva",
+    "titulo": "Avaliar gerador a combustível para a casa",
+    "palavras_chave": [
+      "gerador",
+      "geradores",
+      "gasolina",
+      "diesel",
+      "combustível",
+      "apagão",
+      "apagões",
+      "reserva",
+      "gerador solar",
+      "gerador ou",
+      "ou gerador",
+      "gerador ou painel"
+    ],
+    "resposta": "1. Use gerador a combustível como energia de reserva durante quedas, se houver condições seguras. Para avaliar o gasto cotidiano, some combustível, manutenção e compra e compare com a energia que deixaria de comprar da distribuidora.\n2. Divida o custo de combustível por hora pela potência média em kW que o gerador entrega. Exemplo hipotético. Se ele consumir {gerador_consumo_l_h} litro por hora, com combustível a R$ {gerador_preco_litro_rs} e carga de {gerador_potencia_w} W, só o combustível custa R$ {gerador_custo_combustivel_kwh} por kWh. A tarifa residencial de referência do estudo é cerca de R$ {tarifa} por kWh antes de tributos.\n3. O custo muda com a carga e o combustível. Considere também o ruído e os gases do escapamento. Para avaliar economia com geração renovável, consulte a orientação sobre painéis solares. Uma estação portátil com bateria armazena energia e só usa energia solar quando é carregada por painéis ou outra fonte solar.\n\nMonóxido de carbono pode matar. Opere gerador a combustível somente ao ar livre, longe de aberturas. Nunca ligue a saída do gerador a uma tomada da casa. Peça a um profissional habilitado para avaliar qualquer ligação à instalação residencial.",
+    "documentos": [
+      "Curva de consumo do fabricante na carga de interesse, preço local do combustível e tarifa da distribuidora."
+    ],
+    "onde": "Manual do gerador, distribuidora e profissional habilitado.",
+    "fonte": "CPSC, segurança de geradores portáteis — https://www.cpsc.gov/s3fs-public/5123_SafetyAlert_PortableGenerators_102021.pdf\nEnel SP, tarifa de referência — https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html\nDepartamento de Energia dos EUA, energia de reserva — https://www.energy.gov/cmei/systems/solar-and-resilience-basics",
+    "verificado_em": "2026-11-18"
+  }
+]

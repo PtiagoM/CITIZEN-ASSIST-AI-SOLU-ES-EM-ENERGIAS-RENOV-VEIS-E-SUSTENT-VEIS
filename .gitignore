@@ -1,0 +1,9 @@
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+entrega/portal.txt
+apresentacao/citizen-assist-energia.avi
+data/feedback.csv
