@@ -13,8 +13,6 @@
 
 - **Proposto:** organizar a navegação em cinco grupos: Conta de luz, Aparelhos e iluminação, Energia solar e comparações, Geradores e reserva, Descontos e benefícios.
 
-- **Confirmado:** a rodada simulada no Streamlit passou de 9 para 12 acertos em 12 consultas após ajustes na busca. As perguntas, os resultados e os limites da simulação estão no [registro de testes](testes-usuarios.md#rodada-simulada-no-streamlit-em-18112026).
-
 ## Entrega
 
 - **Confirmado:** terminal Python e Streamlit instalados na pasta da disciplina.

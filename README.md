@@ -66,6 +66,6 @@ Em outro computador, prepare o ambiente desta pasta com `py -m venv .venv` e ins
 
 ## Evidências e entrega
 
-- A rodada simulada no Streamlit passou de 9 para 12 acertos em 12 consultas após ajustes de busca. O [registro de testes](testes-usuarios.md) documenta as perguntas, os resultados e o roteiro da validação com usuários reais, que permanece pendente.
+- A validação com usuários reais está pendente. O [roteiro de teste](testes-usuarios.md) contém as tarefas e a tabela para registrar as observações da rodada.
 - [Roteiro da demonstração](apresentacao/roteiro.md). Vídeo local em `apresentacao/citizen-assist-energia.avi`, com 2min18s, texto na tela e demonstração do terminal. O link público de avaliação será inserido após o envio ao YouTube como não listado.
 - [Modelo do TXT do Portal](entrega/portal.modelo.txt). O arquivo de entrega exige os dois links acessíveis, conforme o enunciado, p. 3.

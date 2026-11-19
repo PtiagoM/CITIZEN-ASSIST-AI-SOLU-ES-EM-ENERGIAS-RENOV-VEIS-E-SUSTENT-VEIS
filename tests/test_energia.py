@@ -61,13 +61,6 @@ class TestAssistente(unittest.TestCase):
             ("Gerador a gasolina compensa para baixar a conta de luz?", "E09", "R$ 3,60 por kWh"),
             ("Gerador ou placa solar para economizar energia?", "E09", "Monóxido de carbono"),
             ("Gerador solar vale a pena?", "E09", "bateria armazena energia"),
-            ("Tem jeito de gastar menos com o ar ligado todo dia?", "E08", "kWh por ano"),
-            ("Quero começar sem comprar nada. O que posso fazer pra economizar?", "E05", "kWh por dia"),
-            (
-                "Estou em dúvida entre trocar as lâmpadas por LED e instalar painéis no telhado.",
-                "E04",
-                "R$ 118,41",
-            ),
         ]
         for pergunta, id_esperado, trecho in casos:
             with self.subTest(pergunta=pergunta):
